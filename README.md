@@ -115,7 +115,7 @@ docker run -d -p 5010:5000 --name mottu-fleet-container mottu-fleet-app
 
 ## 🧭 Arquitetura Macro
 
-> O diagrama de arquitetura foi criado no [Draw.io](https://draw.io) e está disponível na pasta `/docs/arquitetura`.
+> O diagrama de arquitetura foi criado no [Draw.io](https://draw.io) e está disponível na pasta `/Arquitetura`.
 
 - Usuário → Front-end (futuro) → API REST (.NET)  
 - API REST → Banco Oracle  
